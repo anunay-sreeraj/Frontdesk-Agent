@@ -1,6 +1,6 @@
 # Voice AI Assistant
 
-This project is a voice AI assistant that can answer questions about a salon. It uses LiveKit Agents for the voice AI functionality, a FastAPI backend to handle business logic, and Firestore as a database.
+This project is a voice AI assistant that can answer questions about a salon. It uses LiveKit MCP server, agents for the voice AI functionality, a FastAPI backend to handle business logic, and Firestore as a database.
 
 ## Setup
 
